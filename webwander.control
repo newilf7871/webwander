@@ -1,0 +1,6 @@
+Package: webwander
+Version: 1.0.0
+Architecture: all
+Maintainer: ilovefood7871
+Depends: python3
+Description: a simple and secure web browser made by ilovefood7871.
